@@ -1,15 +1,14 @@
-# React + TypeScript + Vite
+🌐 Proyecto React + Vite - Portal de Servicios
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este proyecto es una plataforma web construida con React 19, Vite y TailwindCSS 4, diseñada para gestionar y mostrar servicios de forma dinámica, con navegación gestionada mediante React Router.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+🚀 Tecnologías utilizadas
+⚡ Vite – Herramienta de construcción rápida para proyectos modernos.
+⚛️ React 19 – Librería para interfaces de usuario.
+🎨 TailwindCSS 4 – Framework CSS basado en utilidades para diseño rápido.
+🔀 React Router DOM 7 – Navegación y routing en React.
+📝 TypeScript – Tipado estático para JavaScript (compilado en build).
+🛠️ ESLint – Análisis estático para mejorar calidad del código.
 
 ```js
 export default tseslint.config({
